@@ -28,4 +28,4 @@ A basic e-commerce backend application built with **Spring Boot**. This project 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MohamedSaeed003/e-commerece-app.git
